@@ -1,0 +1,29 @@
+@charset "UTC-8";
+body{
+    background-color: rgb(205, 255, 203);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    
+    color:  rgb(26, 44, 25);
+    
+}
+#principal{
+    text-align: center;
+    background-color:rgb(60, 128, 94) ;
+    color: white;
+}
+
+h2{
+    color:rgb(101, 133, 98);
+    
+}
+.basico{
+    color:#1c9460;
+}
+.intermediario{
+    color: #968d3e;
+}
+.avancado{
+    color:#9e1b1b;
+}
